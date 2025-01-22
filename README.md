@@ -1,6 +1,8 @@
 # Advanced Face Recognition Attendance System 📸
 This project leverages state-of-the-art face recognition technology to automate attendance tracking. By integrating machine learning, computer vision, and real-time video processing, it ensures a seamless and efficient attendance system. 📋✨
 
+
+### Face Recognition Attendance Management System
 ![Image](https://github.com/user-attachments/assets/85160150-24b2-4845-995b-9f212bad2d56)
 
 # Overview 🌟
